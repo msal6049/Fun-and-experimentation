@@ -1,0 +1,4 @@
+Into GPT-4:
+code a 3 body simulation in python with a gui that lets you input variables
+
+Output:
